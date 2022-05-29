@@ -21,9 +21,8 @@
 
 ## 🖼 GIF 
 <p align="center">                       
-  <img src='https://user-images.githubusercontent.com/51713169/170876979-1f2f9356-b595-4084-8ca0-7c4807130460.gif' width='310' />              
-  <img src='https://user-images.githubusercontent.com/51713169/170877034-958a92e3-3bab-4062-854f-2d2d096b1d9f.gif' width='300' />
-
+  <img src='https://user-images.githubusercontent.com/51713169/170877697-0cc49609-af84-412e-9d03-329c8465cdc7.gif' width='310' />              
+  <img src='https://user-images.githubusercontent.com/51713169/170877751-13946304-f865-4bc9-834e-5056cf80f9ad.gif' width='300' />
 
 
 
