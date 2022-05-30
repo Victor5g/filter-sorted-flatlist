@@ -31,7 +31,7 @@
 ## ✨ Technologies 
 - [Expo](https://expo.dev/)
 - [React Native](https://reactnative.dev/)
-                                                                                                                                                                                                                                                                                                                                                                                    
+- [Pravatar](https://pravatar.cc/)                                                                                                                                                                        
                                                                                                                               
 ## 🛠  How to run
 - Clone the repository and access the folder;
